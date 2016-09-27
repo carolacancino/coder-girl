@@ -1,0 +1,46 @@
+.banner{
+	background-image: url(../img/home.jpg); 
+	width: 100%;
+	background-position: center;
+	background-size: cover;
+	padding: 20%;
+}
+.title{
+	color:white;
+}
+.title2{
+	padding-bottom: 50px;
+}
+.caj-amarilla{
+	background-color: yellow;
+	width: 100%;
+	padding:20px;
+}
+.video{
+	padding: 50px;
+}
+
+.imagen{
+	max-width: 100%;
+}
+	
+.conten{
+	padding:40px;
+}
+.contacto{
+	padding:40px;
+}
+.imagen2{
+	max-width: 90%;
+	height: auto;
+	background-size: cover;
+
+}
+footer{
+	background-color: #91B1D6;
+	padding: 20px;
+}
+footer p a{
+	text-decoration: none;
+	color:yellow;
+}
